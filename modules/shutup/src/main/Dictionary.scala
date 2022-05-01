@@ -20,7 +20,6 @@ afraid
 anal(plug|sex|)
 anus
 arse(hole|wipe|)
-ass
 ass?(hole|fag)
 aus?c?hwitz
 bastard?
@@ -50,6 +49,7 @@ dic?k(head|face|suc?ker|)
 dildo
 dogg?ystyle
 douche(bag|)
+(dumb)?ass?
 dyke
 engine
 fck(er|r|u|k|t|ing?|ign|tard?|face|off?|)
@@ -211,6 +211,7 @@ ching(ue|a)
 chupame
 cobarde
 est[úu]pid[ao]
+idiota
 imbecil
 madre
 maric[oó]n
@@ -244,6 +245,7 @@ gaa?nd
 """)
 
   def fr = dict("""
+connard
 fdp
 pd
 pute
