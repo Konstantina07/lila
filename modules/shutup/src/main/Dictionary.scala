@@ -297,7 +297,7 @@ yarra[gğ][iı] yediniz
   def critical = dict("""
 cancer
 ((ho?pe|wish) ((yo?)?[uy](r (famil[yi]|m[ou]m|mother))?( and )*)+ (die|burn)s?|((die|burn)s? irl))
-(kill|hang|neck) ?((yo?)?[uyi]r? ?(self|famil[yi]|m[ou]m|mother)( and )?)+
+(kill|hang|neck) ?((yo?)?[uyi]r? ?(self|selves|famil[yi]|m[ou]m|mother)( and )?)+
 kys
 rape
 """)
