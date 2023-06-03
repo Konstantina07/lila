@@ -246,7 +246,7 @@ ching(ue|a)
 chupame
 cobarde
 est[úu]pid[ao]
-gilipollas
+gilipoll[ao]
 hdp
 hijo de put\w*
 idiota
@@ -292,6 +292,7 @@ batard
 connard
 encul[eé]
 fdp
+ntm
 pd
 pute
 triche(ur|)
